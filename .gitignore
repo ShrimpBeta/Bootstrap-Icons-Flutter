@@ -78,3 +78,5 @@ build/
 # Scripts
 node_modules
 .env
+
+/scripts/upgrade_version/build/
